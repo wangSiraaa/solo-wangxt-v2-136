@@ -23,3 +23,8 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# 构建/自测产物
+dist/
+out-test/
+*.log
